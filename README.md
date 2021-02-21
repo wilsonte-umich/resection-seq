@@ -3,7 +3,7 @@ This repository contains all script and reference files
 required to analyze data from the DSB resection sequencing
 approach reported by Bazzano et al.
 
-<link pending>
+<link is pending>
 
 The main file to execute the pipeline is 'process_sample.q',
 which must be called by the q pipeline manager:
