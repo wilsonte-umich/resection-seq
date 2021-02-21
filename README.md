@@ -19,7 +19,7 @@ Appropriate files for all sequences in the original manuscript
 are found in folder Bazzano_2021.
 
 The pipeline must also be provided with file
-ResectionMasterStrainTable.txt; once again, an apprropriate file
+ResectionMasterStrainTable.txt; once again, an appropriate file
 is provided for the original paper in folder Bazzano_2021.
 
 After pipeline steps 'align', 'collapse' and 'crosstab' have
